@@ -1,2 +1,1 @@
-# web-scraper
-A web scraper in go
+# GoLang Web Scraper
