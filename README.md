@@ -8,7 +8,8 @@
 Website to scrape: nytimes.com
 ```
 4. Use the jquery selector convention to select an element or class of elements
-e.g. will get the article tags from nytimes.com
+
+e.g. this will get the article tags from nytimes.com
 ```
 Jquery Selector: article
 ```
