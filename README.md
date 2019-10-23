@@ -17,11 +17,19 @@ Jquery Selector: article
 Filter by: Trump
 
 Filtered Results:
-1. Trump’s Visit to Queen Mixes Pageantry With the PettyQueen Elizabeth II welcomed President Trump to Buckingham Palace with an honor guard and royal artillery salute.At the same time, Mr. Trump carried on an ugly dispute with the mayor of London, whom he called a “stone cold loser.”635 commentsPresident Trump and the first lady, Melania Trump, at Buckingham Palace with Queen Elizabeth II in London on Monday. Doug Mills/The New York Times
+1. Trump’s Visit to Queen Mixes Pageantry With the PettyQueen Elizabeth II welcomed President Trump
+    to Buckingham Palace with an honor guard and royal artillery salute.At the same time, Mr. Trump 
+    carried on an ugly dispute with the mayor of London, whom he called a “stone cold loser.”635 
+    comments President Trump and the first lady, Melania Trump, at Buckingham Palace with Queen 
+    Elizabeth II in London on Monday. Doug Mills/The New York Times
 
-2. A Former Hotel Partner Alleges the Trumps Evaded Taxes in PanamaAccusations in a legal filing escalate a dispute with the president’s company and are fraught with potential diplomatic and legal complexities.The Trump Organization, the filing alleges, “made fraudulent and false claims to the Panamanian tax authorities” to “cover up its unlawful activities.”
+2. A Former Hotel Partner Alleges the Trumps Evaded Taxes in PanamaAccusations in a legal filing 
+    escalate a dispute with the president’s company and are fraught with potential diplomatic and 
+    legal complexities.The Trump Organization, the filing alleges, “made fraudulent and false claims 
+    to the Panamanian tax authorities” to “cover up its unlawful activities.”
 
-3. The Editorial BoardTrump’s War on Worker RightsThe administration is making life easier for business owners and harder for workers.94 comments
+3. The Editorial BoardTrump’s War on Worker RightsThe administration is making life easier for business 
+    owners and harder for workers.94 comments
 
 4. Bernie SandersI Know Where I Came From. Does President Trump?
 
