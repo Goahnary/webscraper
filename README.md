@@ -36,5 +36,3 @@ Filtered Results:
 
 5. Letters: Lessons in Etiquette for Trump in Britain
 ```
-
-Results may vary
